@@ -7,7 +7,7 @@
 
 ###### <center>Introduce</center>
 
-<center>use tcp implement, not http server, base on golang</center>
+<center>base ui from [github](https://github.com/firgia/FD-Project-Management/tree/web-static "github"), a dash board to control the local proxy serve</center>
 
 </div>
 
@@ -23,19 +23,16 @@
 >3. renderwidget改getx
 
 ## Screenshort
->- 服务节点页面
+> 服务节点页面
 
 ![ShortCut1](/shortcut/shortcut1.png)
-
 >- 代理节点页面
 
 ![ShortCut1](/shortcut/shortcut2.png)
-
->- 网站连通性测试页面
+> 网站连通性测试页面
 
 ![ShortCut1](/shortcut/shortcut3.png)
-
->- 网络链接页面
+> 网络链接页面
 
 ![ShortCut1](/shortcut/shortcut4.png)
 
