@@ -22,15 +22,22 @@
 >2. 代理内核实现
 >3. renderwidget改getx
 
-## Sreenshort
-> 服务节点页面
-![ShortCut1](/shortcut/shortcut (1).PNG)
-> 代理节点页面
-![ShortCut1](/shortcut/shortcut (2).PNG)
-> 网站连通性测试页面
-![ShortCut1](/shortcut/shortcut (3).PNG)
-> 网络链接页面
-![ShortCut1](/shortcut/shortcut (4).PNG)
+## Screenshort
+>- 服务节点页面
+
+![ShortCut1](/shortcut/shortcut1.png)
+
+>- 代理节点页面
+
+![ShortCut1](/shortcut/shortcut2.png)
+
+>- 网站连通性测试页面
+
+![ShortCut1](/shortcut/shortcut3.png)
+
+>- 网络链接页面
+
+![ShortCut1](/shortcut/shortcut4.png)
 
 
 ## Install(安装)
